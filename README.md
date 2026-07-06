@@ -286,10 +286,7 @@ Centurion University, India &nbsp;·&nbsp; `2020 – 2024`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nihanthnaidu007&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=39FF14&text_color=C0C8D8&bg_color=080C14"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nihanthnaidu007&hide_border=true&background=080C14&stroke=00D4FF&ring=00D4FF&fire=39FF14&currStreakLabel=00D4FF&sideLabels=8892A4&dates=5A6878&currStreakNum=F0F4FF&sideNums=F0F4FF"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihanthnaidu007&layout=compact&hide_border=true&langs_count=8&title_color=00D4FF&text_color=C0C8D8&bg_color=080C14"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nihanthnaidu007&bg_color=080C14&color=00D4FF&line=00D4FF&point=39FF14&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20graph"/>
 
