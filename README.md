@@ -240,8 +240,8 @@ Six built-in PII detectors with Luhn validation, a declarative YAML policy engin
 
 ## Experience
 
-**AI/ML Engineer, Contract** &nbsp;·&nbsp; Nutraceutical Company (Confidential), New York &nbsp;·&nbsp; `Dec 2025 – Mar 2026`
-Architected a multi-agent LangGraph pipeline that collapsed CFA generation from 7 days to 20 minutes, reducing dependency on 5+ domain experts. Deployed a Claude-powered compliance reviewer that cut regulatory label validation from 2 days to 2 minutes per SKU. Built a hybrid BM25/pgvector enterprise search over internal documentation, and automated end-to-end marketing asset production via n8n, collapsing a 6-week cross-team process to 15 minutes from a single brief.
+**AI Engineer, Intern** &nbsp;·&nbsp; Cogent LLC, Remote (Nebraska) &nbsp;·&nbsp; `Jun 2026 – Present`
+Building an AI data platform that unifies fragmented structured and unstructured sources into one queryable layer, with LLM-powered natural-language access over enterprise data. Designing hybrid RAG retrieval (pgvector with keyword search and reranking) behind FastAPI services so teams query data in plain language instead of hand-written SQL, and building ingestion and embedding pipelines that turn raw records and documents into versioned, searchable knowledge with evaluation and guardrails that keep responses grounded and auditable.
 
 **Founding AI/ML Engineer, Contract** &nbsp;·&nbsp; UnityGrid AI &nbsp;·&nbsp; `Jul 2024 – Jan 2025`
 Designed multi-agent LangChain workflows for semiconductor design validation, cutting manual review time by 36% across 3 engineering teams. Engineered a pgvector and Redis RAG system that brought p95 latency under 900ms and lowered infrastructure cost by 28%. Established LangSmith observability with continuous hallucination tracking, shifting regression detection from post-deployment to pre-release.
